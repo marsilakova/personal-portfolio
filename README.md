@@ -1,4 +1,5 @@
 # Personligt Portfolio – React & Vite
+**Live-demo:** https://personal-portfolio-swart-beta.vercel.app/
 
 En modern, interaktiv och responsiv portfoliowebbplats byggd med **React** och **Vite**. Syftet med webbplatsen är att presentera min tekniska bakgrund, mina färdigheter, min utbildning samt utvalda projekt inom frontend- och backendutveckling.
 
