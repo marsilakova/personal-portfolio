@@ -28,7 +28,17 @@ const projectsData = [
     tech: ['C#', '.NET', 'REST API'],
     liveUrl: '',
     githubUrl: 'https://github.com/marsilakova/InventoryMenegement'
+  },
+  {
+    id: 4,
+    title: 'Nordic Living Store – E-Commerce',
+    category: 'Frontend',
+    description: 'Interactive Scandinavian home decor store built with React and Vite, featuring category filtering, live search, persistent cart state (localStorage), and checkout flow.',
+    tech: ['React', 'Vite', 'CSS3', 'LocalStorage'],
+    liveUrl: 'https://nordic-living-store-mu.vercel.app',
+    githubUrl: 'https://github.com/marsilakova/nordic-living-store'
   }
+
 ];
 
 function App() {
