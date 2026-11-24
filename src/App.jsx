@@ -41,6 +41,7 @@ const projectsData = [
 
 ];
 
+
 function App() {
   const [darkMode, setDarkMode] = useState(true);
   const [selectedCategory, setSelectedCategory] = useState('All');
