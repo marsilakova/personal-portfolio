@@ -10,6 +10,8 @@ En modern, interaktiv och responsiv portfoliowebbplats byggd med **React** och *
 * **Utbildning och erfarenhet (Timeline):** En tydlig tidslinje över min utbildning (bl.a. civilingenjörsexamen i datateknik, KY-utbildning och fullstackkurser) samt mångårig erfarenhet inom mjukvaruutveckling.
 * **Responsiv design:** Anpassad för mobil, surfplatta och dator med CSS-variabler, Flexbox och CSS Grid.
 * **Kontaktsektion:** Enkel översikt med kontaktuppgifter och interaktivt kontaktformulär.
+* **SEO-optimering:** Optimerad med meta-taggar (`description`, `keywords`), Open Graph och strukturerad JSON-LD-data (Schema.org) för bättre synlighet i sökmotorer och vid delning på LinkedIn.
+
 
 ## Utvalda projekt i portfoliot
 1. **Modern CV Website:** Personlig och responsiv CV-webbplats byggd med HTML5, CSS3 och JavaScript.
