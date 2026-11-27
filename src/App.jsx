@@ -203,7 +203,7 @@ function App() {
     <div className="timeline">
 
       <div className="timeline-item">
-        <span className="timeline-date">1987 – Present</span>
+        <span className="timeline-date">2000 – Present</span>
         <h3>Software Development & Programming</h3>
         <h4>Industry Experience • Sweden & International</h4>
         <p>
